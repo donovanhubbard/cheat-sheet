@@ -16,3 +16,7 @@
 | n    | /   | Search forward   |
 | n    | ?   | Search backwards |
 
+## Buffers
+| Mode    | Key  | Command        |
+| ------- | ---- | -------------- |
+| command | bd # | Close buffer # |
