@@ -1,6 +1,6 @@
 # vim cheat sheet
 
-# Page Up/Down
+## Page Up/Down
 | Mode | Key    | Command                |
 | ---- | ------ | ---------------------- |
 | n    | ctrl+d | Scroll down half page  |
@@ -10,7 +10,7 @@
 | n    | ctrl+e | Scroll down 1 line     |
 | n    | ctrl+y | scroll down 1 line     |
 
-# Search
+## Search
 | Mode | Key | Command          |
 | ---- | --- | ---------------- |
 | n    | /   | Search forward   |
