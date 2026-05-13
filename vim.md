@@ -20,3 +20,19 @@
 | Mode    | Key  | Command        |
 | ------- | ---- | -------------- |
 | command | bd # | Close buffer # |
+
+## Windows
+| Mode   | Key      | Command              |
+| ------ | -------- | -------------------- |
+| normal | ctrl+w = | Make window taller   |
+| normal | ctrl+w - | Make window shorter  |
+| normal | ctrl+w > | Make window wider    |
+| normal | ctrl+w < | Make window narrower |
+
+## Window aliases
+| Mode   | Key       | Command                    |
+| ------ | --------- | -------------------------- |
+| normal | space w t | Make window a lot taller   |
+| normal | space w s | Make window a lot shorter  |
+| normal | space w w | Make window a lot wider    |
+| normal | space w n | Make window a lot narrower |
